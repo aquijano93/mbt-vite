@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-color: rgb(24, 23, 23);
+}
+
+h1,h2,h3,h4,p,label,hr {
+  color: blanchedalmond;
+}
+
+.container{
+  background-color: rgb(43, 43, 43);
+}
+
+.size-image {
+  width: 100%;
+  height: 100vh;
+}
